@@ -1,0 +1,20 @@
+{
+  "name": "cgl-events",
+  "version": "0.0.0",
+  "description": "A bot for the events of ChatGamerLibre",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tau5/cgl-events.git"
+  },
+  "author": "",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Tau5/cgl-events/issues"
+  },
+  "homepage": "https://github.com/Tau5/cgl-events#readme"
+}
