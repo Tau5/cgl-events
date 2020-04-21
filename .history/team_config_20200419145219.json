@@ -1,0 +1,22 @@
+[
+	{
+		"identifier": 1,
+		"name": "Reino Koopa",
+		"rank_names": {
+			"0": "Goomba",
+			"A": "Bob-omb",
+			"B": "Koopa-troopa",
+			"C": "Hermano martillo"
+		}
+	},
+	{
+		"identifier": 0,
+		"name": "Reino Champiñon",
+		"rank_names": {
+			"0": "Toad",
+			"A": "Destello",
+			"B": "Yoshi",
+			"C": "Fontanero" 
+		}
+	}
+]

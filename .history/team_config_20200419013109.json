@@ -1,0 +1,18 @@
+{
+	"koopa": {
+		"rank_names": {
+			"0": "Goomba",
+			"A": "Bob-omb",
+			"B": "Koopa",
+			"C": "Hermano martillo"
+		}
+	},
+	"toad": {
+		"rank_names": {
+			"0": "Toad",
+			"A": "Toad obrero",
+			"B": "Yoshi",
+			"C": "Destello"
+		}
+	}
+}

@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Tau5/cgl-events/issues"
   },
-  "homepage": "https://github.com/Tau5/cgl-events#readme"
+  "homepage": "https://github.com/Tau5/cgl-events#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
 }

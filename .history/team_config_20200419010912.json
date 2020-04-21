@@ -1,0 +1,14 @@
+{
+	"koopa": {
+		"rank_names": {
+			"A": "Goomba",
+			"F": "Cañón de N64"
+		}
+	},
+	"toad": {
+		"rank_names": {
+			"A": "Toad",
+			"B": "Toad amigo?"
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"koopa": {
+		"rank_names": {
+			"0": "Goomba",
+			"A": "Bob-omb",
+			"B": "Koopa",
+			"C": "Paratroopa",
+		}
+	},
+	"toad": {
+		"rank_names": {
+			"0": "Toad",
+			"A": "Toad amigo?"
+		}
+	}
+}
